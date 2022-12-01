@@ -9,6 +9,7 @@ class linkedListPractice
         list.insert("Jordan");
         list.insert("Lebron");
         list.print();
+        System.out.println("New features");
         
        
         
